@@ -1,10 +1,10 @@
-a1 b1 : 14/2180
-a2 b1 : No output
-a3 b1 : 3/872
-a1 b2 : 0/1380
-a2 b2 : No output
-a3 b2 : 2/552
+input_a1 input_b1 : 14/2180
+input_a2 input_b1 : No output
+input_a3 input_b1 : 3/872
+input_a1 input_b2 : 0/1380
+input_a2 input_b2 : No output
+input_a3 input_b2 : 2/552
 
 Example:
-	java -jar dist\stupid.jar a1.txt b1.txt
+	java -jar dist\practice.jar input_a1.txt input_b1.txt
 This produces 14/2180

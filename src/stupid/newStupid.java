@@ -1,4 +1,4 @@
-package practice;
+package stupid;
 
 import java.io.IOException;
 import java.nio.file.Files;
